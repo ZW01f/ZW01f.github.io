@@ -95,8 +95,7 @@ analytics:
 author:
   name             : "Mohamed Ezat"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Analysis and Reverse Engineering"
-  location         : "Egypt"
+  bio              : "Malware Analysis and RE"
   email            :
   links:
     - label: "Email"
