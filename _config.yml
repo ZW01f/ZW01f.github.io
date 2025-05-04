@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "ZW01f"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mohamed Ezat"
+name                     : "Mohamed Ezzat"
 description              : "Malware Analysis - Reverse Engineering & DFIR "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
